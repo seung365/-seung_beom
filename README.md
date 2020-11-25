@@ -1,4 +1,4 @@
-### **Kyungpook National University CES**
+### **Kyungpook National University CSE**
 ----------------
  **Playlist**
 * Used to me - Luke Chiang
